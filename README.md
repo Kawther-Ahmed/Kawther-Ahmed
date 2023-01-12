@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences: this is [MY RESUME](https://drive.google.com/file/d/1IB-2AlpwEBcSFU0XS2PjFFKfScvCZwE-/view?usp=sharing).
 
-- 📝 Here is my [Cover Letter](https://drive.google.com/file/d/1a4OFsBvfuuYhtRVd-hv1YTu8Jazi3SH4/view?usp=sharing).
+- 📝 Here is my [Cover Letter](https://drive.google.com/file/d/1Emr2NyowFj26iOUZ4p2TNUvYjrshA3Gd/view?usp=sharing).
 
 - ⚡ **Just Keep Swimming**.
 <br>
