@@ -3,11 +3,11 @@
 
 <img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-- 🏫 I am a fresh Computer Science graduate who is passionate about `Data`. I am also a graduate of Data Analysis `Professional & Advanced` Nanodegrees from Udacity. I have `2+ years` of experience in `Python programming` and Software Engineering with more than `7 projects`.
+- 🏫 I am a fresh Computer Science graduate who is passionate about `Data`. I am also a graduate of Data Analysis `Professional & Advanced` Nanodegrees from Udacity. I have `3+ years` of experience in `Python programming` and Software Engineering with more than `9 projects`.
 
-- 🔭 I’m currently working on **Advanced Data Analysis Nanodegree**.
+- 🔭 I’m currently I am **Power BI Trainee @ ITI**.
 
-- 🌱 I’m currently learning Visualizations using `Tableau`, Analysis using `SQL`.
+- 🌱 I’m currently learning Visualizations using `Power BI`, Analysis using `SQL`.
 
 - 👯 I’m looking for **a job opportunity to help me learn and prove my skills and assist in completing the work in a professional manner.**
 
