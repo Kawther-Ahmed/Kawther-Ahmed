@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kawther Ahmed</h1>
-<h3 align="center">Junior Data Analyst | Python | SQL | Tableau</h3>
+<h3 align="center">Power BI Trainee @ ITI | Junior Data Scientist | Python | SQL | Tableau</h3>
 
 <img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 - 🏫 I am a fresh Computer Science graduate who is passionate about `Data`. I am also a graduate of Data Analysis `Professional & Advanced` Nanodegrees from Udacity. I have `3+ years` of experience in `Python programming` and Software Engineering with more than `9 projects`.
 
-- 🔭 I’m currently I am **Power BI Trainee @ ITI**.
+- 🔭 I’m currently a **Power BI Trainee @ ITI**.
 
 - 🌱 I’m currently learning Visualizations using `Power BI`, Analysis using `SQL`.
 
