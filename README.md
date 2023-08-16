@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Kawther Ahmed</h1>
-<h3 align="center">Power BI Trainee @ ITI | Junior Data Scientist | Python | SQL | Tableau</h3>
+<h3 align="center">BI Developer | Data Analyst | ITI</h3>
 
 <img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-- 🏫 I am a fresh Computer Science graduate who is passionate about `Data`. I am also a graduate of Data Analysis `Professional & Advanced` Nanodegrees from Udacity. I have `3+ years` of experience in `Python programming` and Software Engineering with more than `9 projects`.
+- 🏫 I am a Computer Science graduate who is passionate about `Data`. Recently, I graduated from the ITI (BI track). I am also a graduate of Data Analysis `Professional & Advanced` Nanodegrees from Udacity through the FWD initiative. I have `3+ years` of experience in `Python programming` and Software Engineering Additionally, I have extensive experience in advanced SQL, and SQL BI, with over 15 projects. I'm well-skilled in data analysis and reporting using Power BI and Tableau.
 
-- 🔭 I’m currently a **Power BI Trainee @ ITI**.
+- 🔭 I'm currently seeking a job opportunity as a BI Developer.
 
-- 🌱 I’m currently learning Visualizations using `Power BI`, Analysis using `SQL`.
+- 🌱 I have completed more than five courses from DataCamp in DWH, Oracle, Recursive Queries, and other topics.
+
+- 🌱 I have worked on over twenty projects utilizing Advanced SQL, Power BI, Tableau, SSIS, SSAS, SSRS, Python, Excel, and more.
 
 - 👯 I’m looking for **a job opportunity to help me learn and prove my skills and assist in completing the work in a professional manner.**
 
 - 📫 How to reach me **kawtherahmed556@gmail.com**.
 
-- 📄 Know about my experiences: this is [MY RESUME](https://drive.google.com/file/d/1IB-2AlpwEBcSFU0XS2PjFFKfScvCZwE-/view?usp=sharing).
+- 📄 Know about my experiences: this is [MY RESUME](https://drive.google.com/file/d/1oTxgOrM4ShSKQgp9t-8N1SV3O1IOAoQd/view).
 
-- 📝 Here is my [COVER LETTER](https://drive.google.com/file/d/1Emr2NyowFj26iOUZ4p2TNUvYjrshA3Gd/view?usp=sharing).
+- 📝 Here is my [Portfolio](https://kawther-ahmed.github.io/).
 
 - ⚡ **Just Keep Swimming**.
 <br>
