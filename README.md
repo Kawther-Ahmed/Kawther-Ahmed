@@ -27,7 +27,7 @@
 <p align="center">
     <a href="mailto:kawtherahmed556@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
     <a href="https://www.linkedin.com/in/kawtherahmed67/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://kawther-ahmed.github.io/" title="Portfolio"><img src="https://img.shields.io/badge/gmail-%23039BE5.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://kawther-ahmed.github.io/" title="Portfolio"><img src="https://img.shields.io/badge/portfolio-%23039BE5.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## 🛠 Languages and Tools
