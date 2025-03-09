@@ -3,11 +3,17 @@
 
 <img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-- 🏫 I am a Computer Science graduate who is passionate about `Data`. Recently, I graduated from the ITI (BI track). I am also a graduate of Data Analysis `Professional & Advanced` Nanodegrees from Udacity through the FWD initiative. I have `3+ years` of experience in `Python programming` and Software Engineering Additionally, I have extensive experience in advanced SQL, and SQL BI, with over 15 projects. I'm well-skilled in data analysis and reporting using Power BI and Tableau.
+- 🏫 I'm a computer science graduate with a specialization in Business Intelligence from `ITI`, and I have `one year` of experience working remotely for `FCSC` (Federal Competitivness and Statistics Centre) in Dubai. I possess a strong passion for data. I am a Business Intelligence Developer with expertise in Python, advanced SQL, SQL BI, Qlik Sense, Power BI, and Tableau. I have many projects in data analysis and visualization, and I excel at data modeling, scripting, and developing insightful dashboards.
 
-- 🔭 I'm currently seeking a job opportunity as a BI Developer.
+- 🌱 I am also a graduate of Data Analysis `Professional & Advanced` Nanodegrees from Udacity through the FWD initiative.
 
-- 🌱 I have completed more than five courses from DataCamp in DWH, Oracle, Recursive Queries, and other topics.
+- 🌱 I have `3+ years` of experience in `Python programming` and Software Engineering Additionally, I have extensive experience in advanced SQL, and SQL BI, with over 20 projects.
+
+- 🌱 I'm well-skilled in data analysis and reporting using Power BI, Tableau, and Qlik Sense.
+
+- 🔭 I'm currently seeking a job opportunity as a BI Developer/Data Engineer.
+
+- 🌱 I have completed more than ten courses from DataCamp in DWH, Oracle, Recursive Queries, and other topics.
 
 - 🌱 I have worked on over twenty projects utilizing Advanced SQL, Power BI, Tableau, SSIS, SSAS, SSRS, Python, Excel, and more.
 
